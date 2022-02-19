@@ -1,11 +1,11 @@
 <h1 align="center"> Привет <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!! I am Arun Jangra</h1>
 
-- 🔭 I’m currently working on Rynok Full Stack E-commerce
-- 🌱 I’m currently learning Node JS, Express, MongoDb
-- 💬 Ask me about Python, JavaScript, React, Flutter, C & C++
+- 🔭 I’m currently working on Smart Contracts
+- 🌱 I’m currently learning Solidity
+- 💬 Ask me about Python, JavaScript, React, Express, NodeJS, MongoDb, Flutter, C & C++
 - 📫 How to reach me: [arunjngra89@gmail.com](arunjngra89@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I spend a lot of time listening chillstep while coding.
+- ⚡ Fun fact: I am a chillstep lover.
 
 </br>
 <h2 align="center">Technologies 💻</h2>
