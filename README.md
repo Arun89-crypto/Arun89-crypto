@@ -1,4 +1,4 @@
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!! I am Arun Jangra</h1>
+<h1 align="center"> Привет 👋 !! I am Arun Jangra</h1>
 
 - 🔭 I’m currently working on Smart Contracts
 - 🌱 I’m currently learning Solidity
